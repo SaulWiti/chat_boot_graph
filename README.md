@@ -42,7 +42,7 @@ Este proyecto implementa un chatbot utilizando FastAPI y LangGraph. El chatbot p
     ```
     API_KEY_OPENAI = 'tu_api_key_openai'
     API_KEY_AUTH = 'chat1234'
-    URI = "mongodb+srv://sauldiaz:****@userchat.amohfjz.mongodb.net/?retryWrites=true&w=majority&appName=UserChat"
+    URI = "mongodb+srv://s*u**iaz:****@userchat.amohfjz.mongodb.net/?retryWrites=true&w=majority&appName=UserChat"
     ```
 
 
